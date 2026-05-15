@@ -54,8 +54,8 @@ with tab4:
     """)
     col1, col2 = st.columns(2)
     with col1:
-        st.write("- 이메일: ")
-        st.write("- 전화: ")
+        st.write("- 이메일: gujiwon.music@gmail.com")
+        st.write("- 전화: 010-1234-5678")
     with col2:
-        st.write("- GitHub: ")
-        st.write("- LinkedIn: ")
+        st.write("- GitHub: github.com/gujiwon")
+        st.write("- LinkedIn: linkedin.com/in/gujiwon")
